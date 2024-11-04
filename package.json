@@ -1,5 +1,13 @@
 {
   "scripts": {
     "test": "vitest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.2",
+    "vitest": "^2.1.2"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
   }
 }

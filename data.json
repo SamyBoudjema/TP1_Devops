@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Fruit rouges",
+    "price": 3
+  },
+  {
+    "id": 4,
+    "name": "Fruit de la passion",
+    "price": 5
+  }
+]
